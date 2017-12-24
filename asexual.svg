@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg4537"
+   sodipodi:docname="asexual.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs4531" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="3.3432237"
+     inkscape:cy="8.1630874"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1976"
+     inkscape:window-height="1251"
+     inkscape:window-x="217"
+     inkscape:window-y="527"
+     inkscape:window-maximized="0"
+     inkscape:snap-others="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata4534">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292.76665)">
+    <circle
+       style="opacity:1;fill:#8bd0bf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:40;stroke-opacity:1;paint-order:normal"
+       id="path812"
+       cx="8"
+       cy="300.76666"
+       r="6.5" />
+    <path
+       style="opacity:1;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:40;stroke-opacity:1;paint-order:normal"
+       d="M 14.052734 5.6328125 L 7.0546875 14.421875 A 6.5 6.5 0 0 0 8 14.5 A 6.5 6.5 0 0 0 8.3886719 14.486328 C 9.0307969 14.021605 13.599458 10.636851 14.486328 7.5800781 A 6.5 6.5 0 0 0 14.052734 5.6328125 z "
+       transform="translate(0,292.76665)"
+       id="path1978" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:40;stroke-opacity:1;paint-order:normal"
+       d="M 13.359375 4.3359375 L 6.6933594 14.367188 A 6.5 6.5 0 0 0 7.6328125 14.480469 C 9.1132213 12.935294 12.489733 7.9282232 14.195312 6.0566406 A 6.5 6.5 0 0 0 13.359375 4.3359375 z "
+       transform="translate(0,292.76665)"
+       id="path1980" />
+    <path
+       style="opacity:1;fill:#a3a3a3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:40;stroke-opacity:1;paint-order:normal"
+       d="M 13.234375 4.1601562 C 10.961881 6.2287782 6.5318615 12.647512 5.5878906 14.029297 A 6.5 6.5 0 0 0 6.9277344 14.404297 C 8.3580201 11.915108 12.122515 6.6170906 13.548828 4.6289062 A 6.5 6.5 0 0 0 13.234375 4.1601562 z "
+       transform="translate(0,292.76665)"
+       id="path1982" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:40;stroke-opacity:1;paint-order:normal"
+       d="M 13.287109 4.2324219 C 8.1679809 7.0105794 5.5158187 12.171907 4.8222656 13.667969 A 6.5 6.5 0 0 0 5.96875 14.167969 C 8.1453362 10.396052 10.579878 7.0603473 13.455078 4.4707031 A 6.5 6.5 0 0 0 13.287109 4.2324219 z "
+       transform="translate(0,292.76665)"
+       id="path1984" />
+  </g>
+</svg>

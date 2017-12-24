@@ -1,0 +1,16 @@
+#!/bin/bash
+./clean.sh
+echo Render...
+find ./ -name '*.svg' -print0 | xargs -0 -n1 -P0 bash _render.sh
+echo Composite...
+find ./ -name '*.png' -print0 | xargs -0 -n1 -P0 bash _composite.sh
+echo Finalize...
+rm -f *.svg.png
+for f in *.svg.composite.png; do
+	mv "$f" `basename "$f" .svg.composite.png`.png
+done
+echo Optimize...
+find ./ -name '*.png' -print0 | xargs -0 -n1 -P0 optipng -O7 -quiet
+echo Zip...
+zip -r9 PrideMarbles-`git describe --dirty=-dirty --always`.zip *.png
+echo Done
